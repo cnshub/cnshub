@@ -1,5 +1,5 @@
 - 🥇 
-- 👋 Hi, I’m @cns-hub
+- 👋 Hi, I’m @cns hub
 - 👀 I’m interested in cns and programming
 - 🌱 I’m currently learning python and javascipt
 - 💞️ I’m looking to collaborate on github
